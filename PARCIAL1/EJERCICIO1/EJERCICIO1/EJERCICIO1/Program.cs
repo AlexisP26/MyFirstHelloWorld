@@ -31,6 +31,7 @@
         //¿Cuál fue el promedio de las comisiones que recibió por cada venta? 
         PROMEDIO = (COMISIONTOTAL / 3);
         Console.WriteLine("EL PROMEDIO QUE RECIBIO EN COMISIONES POR CADA VENTA ES DE:" + PROMEDIO);
+        //
 
 
 
